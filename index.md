@@ -1,2 +1,2 @@
 # gevo_haki_so
-<a href = "diary.md">日記</a>
+<a href = "diary/2021/feb.md">diary</a>
